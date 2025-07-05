@@ -1,0 +1,65 @@
+{
+    "info": {
+        "name": "普洱市2024-2025学年下学期教学质量检测",
+        "grade": "八",
+        "subject": "英语",
+        "id": "0"
+    },
+    "questions": [
+        {
+            "name": "第一部分 第一节",
+            "questions": [
+                {
+                    "type": "choose",
+                    "title": "--Hi, Gina. ______ is Tom.\n--Nice to meet you, Tom.",
+                    "choose": ["This", "These", "That", "Those"]
+                },
+                {
+                    "type": "choose",
+                    "title": "Zhang Guimei is an unusual teacher. She ______ the free girls' high school.",
+                    "choose": ["made up", "set up", "cut up", "got up"]
+                },
+                {
+                    "type": "choose",
+                    "title": "We didn't understand the importance of independence ______ we left our parents.",
+                    "choose": ["until", "but", "since", "and"]
+                },
+                {
+                    "type": "choose",
+                    "title": "The ______ you study, the ______ grades you will get. Hard work always pays off.",
+                    "choose": ["hard; good", "harder; better", "hardest; best", "more; hard"]
+                },
+                {
+                    "type": "choose",
+                    "title": "--What will the future be like?\n--I think there ______ more trees and less pollution.",
+                    "choose": ["is going to is", "is going to have", "will be", "will have"]
+                },
+                {
+                    "type": "choose",
+                    "title": "Both my brother and sister ______ good at telling Chinese traditional stories.",
+                    "choose": ["be", "am", "is", "are"]
+                },
+                {
+                    "type": "choose",
+                    "title": "We ______ look after our parents when they are old. Because “Filial piety is the first of all virtues”(百善孝为先).",
+                    "choose": ["must", "mustn't", "could", "couldn't"]
+                },
+                {
+                    "type": "choose",
+                    "title": "--Why do you know so much about the Palace Museum?\n--Because I ______ it twice. It is really wonderful.",
+                    "choose": ["will visit", "visited", "have visited", "am visiting"]
+                },
+                {
+                    "type": "choose",
+                    "title": "My parents don't allow me ______ with my friends on schooldays.",
+                    "choose": ["hang out", "hanging out", "hangs out", "to hang out"]
+                },
+                {
+                    "type": "choose",
+                    "title": "--Could you tell me ______?\n--In Xinhua Bookstore.",
+                    "choose": ["where you bought this book", "when did you buy this book", "what did you buy", "why you bought this book"]
+                }
+            ]
+        }
+    ]
+}

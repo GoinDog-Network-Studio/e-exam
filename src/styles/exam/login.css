@@ -1,0 +1,48 @@
+#content {
+    border-radius: 20px;
+    background-color: white;
+    width: 70vw;
+    height: 70vh;
+    box-shadow: 0 0 5px grey;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.top {
+    background-color: rgb(0, 68, 255);
+    -webkit-clip-path: ellipse(50% 30% at 50% 35%);
+    clip-path: ellipse(50% 50% at 50% 35%);
+    width: 100vw;
+    height: 70vh;
+    position: absolute;
+    top: -25vh;
+    left: 0;
+    z-index: -4;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.btn {
+    border-radius: 40px;
+    border: 1px solid rgb(0, 68, 255);
+    min-width: 100px;
+    padding: 10px;
+    font-size: 20px;
+    transition: all 0.2s;
+}
+.btn:hover {
+    filter: grayscale(20%);
+}
+.button_outlined {
+    color: rgb(0, 68, 255);
+    background-color: white;
+}
+.button_filled {
+    color: white;
+    background-color: rgb(0, 68, 255);
+}
