@@ -9,16 +9,22 @@
 </head>
 
 <body style="margin: 0;width: 100vw;height: 100vh;background-color: black;display: flex;justify-content: center;">
-    <div id="content" style="background-color: white; border-radius: 20px;width: 80vw; height: 100vh;display: flex;flex-direction: row;">
-        <div id="left" style="overflow-y: scroll;font-size: 20px;border-radius: 20px 0 0 20px;width: calc(80% - 40px);height: calc(100% - 40px);padding: 20px;">
+    <div id="content"
+        style="background-color: white; border-radius: 20px;width: 80vw; height: 100vh;display: flex;flex-direction: column;">
+        <div id="top" style="display: flex;flex-direction: row;width: 100%; height: 90%;">
+            <div id="left"
+                style="overflow-y: scroll;font-size: 20px;border-radius: 20px 0 0 20px;width: calc(80% - 40px);height: calc(100% - 40px);padding: 20px;">
 
+            </div>
+            <div id="right"
+                style="border-radius: 0 20px 20px 0;width: 20%;height: calc(100%-40px);background-color: rgb(227, 227, 227);padding: 20px;">
+                <p id="student_name">姓名：</p>
+                <p id="student_id">准考证号：</p>
+                <h1 id="exam_name"></h1>
+            </div>
         </div>
-        <div id="right" style="border-radius: 0 20px 20px 0;width: 20%;height: calc(100%-40px);background-color: rgb(227, 227, 227);padding: 20px;">
-            <p id="student_name">姓名：</p>
-            <p id="student_id">准考证号：</p>
-            <h1 id="exam_name"></h1>
-        </div>
-        <div id="bottom" style="justify-content: space-between;padding: 10px;color: white;background-color: rgb(0, 68, 255);width: calc(80vw - 20px);height: 10%;border-radius: 0 0 20px 20px;position: absolute;bottom: 0;display: flex;align-items: center;">
+        <div id="bottom"
+            style="justify-content: space-between;padding: 10px;color: white;background-color: rgb(0, 68, 255);width: calc(80vw - 20px);height: calc(10% - 20px);border-radius: 0 0 20px 20px;position: relative;bottom: 0;display: flex;align-items: center;">
             <h1 id="question_title"></h1>
             <div>
                 <button class="btn btn-outlined" id="previous_part">上一节</button>

@@ -7,57 +7,405 @@
     },
     "questions": [
         {
-            "name": "第一部分 第一节",
+            "name": "第一部分 第一节：单项选择",
             "questions": [
                 {
+                    "id": 1,
                     "type": "choose",
                     "title": "--Hi, Gina. ______ is Tom.\n--Nice to meet you, Tom.",
                     "choose": ["This", "These", "That", "Those"]
                 },
                 {
+                    "id": 2,
                     "type": "choose",
                     "title": "Zhang Guimei is an unusual teacher. She ______ the free girls' high school.",
                     "choose": ["made up", "set up", "cut up", "got up"]
                 },
                 {
+                    "id": 3,
                     "type": "choose",
                     "title": "We didn't understand the importance of independence ______ we left our parents.",
                     "choose": ["until", "but", "since", "and"]
                 },
                 {
+                    "id": 4,
                     "type": "choose",
                     "title": "The ______ you study, the ______ grades you will get. Hard work always pays off.",
                     "choose": ["hard; good", "harder; better", "hardest; best", "more; hard"]
                 },
                 {
+                    "id": 5,
                     "type": "choose",
                     "title": "--What will the future be like?\n--I think there ______ more trees and less pollution.",
                     "choose": ["is going to is", "is going to have", "will be", "will have"]
                 },
                 {
+                    "id": 6,
                     "type": "choose",
                     "title": "Both my brother and sister ______ good at telling Chinese traditional stories.",
                     "choose": ["be", "am", "is", "are"]
                 },
                 {
+                    "id": 7,
                     "type": "choose",
                     "title": "We ______ look after our parents when they are old. Because “Filial piety is the first of all virtues”(百善孝为先).",
                     "choose": ["must", "mustn't", "could", "couldn't"]
                 },
                 {
+                    "id": 8,
                     "type": "choose",
                     "title": "--Why do you know so much about the Palace Museum?\n--Because I ______ it twice. It is really wonderful.",
                     "choose": ["will visit", "visited", "have visited", "am visiting"]
                 },
                 {
+                    "id": 9,
                     "type": "choose",
                     "title": "My parents don't allow me ______ with my friends on schooldays.",
                     "choose": ["hang out", "hanging out", "hangs out", "to hang out"]
                 },
                 {
+                    "id": 10,
                     "type": "choose",
                     "title": "--Could you tell me ______?\n--In Xinhua Bookstore.",
                     "choose": ["where you bought this book", "when did you buy this book", "what did you buy", "why you bought this book"]
+                }
+            ]
+        },
+        {
+            "name": "第一部分 第二节：完形填空",
+            "questions": [
+                {
+                    "type": "passage",
+                    "text": "One day, a boy had a fight with one of his classmates. Then he went to his __11__ and told him his history angrily. “He is really bad,” the boy said, “and I __12__ him.”\nThe grandfather said, “Let me tell you a story. When I was a boy, I also hated others for what they did. ...”\nAs the boy listened __13__, the grandfather went on, “There are always two tigers inside my heart. One is __14__ and kind. He __15__ people around him. But the other is bad and unfriendly. Even the smallest thing will make him angry. He fights with __16__ all the time, and for no reason. He doesn't have any friends __17__ he always hates others. It is difficult to live __18__ these two tigers inside my heart. They both try to control me.”\nThe boy looked into his grandfather's __19__ and asked, “__20__ tiger always controls you, Grandfather?”\nThe old man said slowly and seriously, “The one that I feed. I always feed the good and kind tiger, so I never hate others and seldom(很少) get angry now.”"
+                },
+                {
+                    "type": "choose",
+                    "title": "",
+                    "choose":["mother", "father", "teacher", "grandfather"],
+                    "id": 11
+                },
+                {
+                    "type": "choose",
+                    "title": "",
+                    "choose":["love", "hate", "help", "enjoy"],
+                    "id": 12
+                },
+                {
+                    "type": "choose",
+                    "title": "",
+                    "choose":["slowly", "carefully", "quickly", "truly"],
+                    "id": 13
+                },
+                {
+                    "type": "choose",
+                    "title": "",
+                    "choose":["good", "bad", "lazy", "quiet"],
+                    "id": 14
+                },
+                {
+                    "type": "choose",
+                    "title": "",
+                    "choose":["is worried about", "comes up with", "is angry with", "gets on with"],
+                    "id": 15
+                },
+                {
+                    "type": "choose",
+                    "title": "",
+                    "choose":["something", "no one", "everyone", "anything"],
+                    "id": 16
+                },
+                {
+                    "type": "choose",
+                    "title": "",
+                    "choose":["because", "though", "before", "but"],
+                    "id": 17
+                },
+                {
+                    "type": "choose",
+                    "title": "",
+                    "choose":["on", "for", "with", "in"],
+                    "id": 18
+                },
+                {
+                    "type": "choose",
+                    "title": "",
+                    "choose":["eyes", "ears", "nose", "mouth"],
+                    "id": 19
+                },
+                {
+                    "type": "choose",
+                    "title": "",
+                    "choose":["Who", "When", "Where", "Which"],
+                    "id": 20
+                }
+            ]
+        },
+        {
+            "name":"第二部分 第一节：判断正误",
+            "questions":[
+                {
+                    "type": "passage",
+                    "text": "The 15-minute break between classes is an important part of our school days. In the past, we just had a 10-minute break. We had to rush to the restroom, drink water quickly, and we had no time to do sports. But recently, our school made a great change in the class break. It is longer, from 10 to 15 minutes. The 15-minute break has truly made a difference to our life.\nDuring the 15-minute break, we can do different activities. Some students play ball games on the playground, enjoying the fresh air and physical exercise. Others choose to stay in the classroom, sharing interesting stories or discussing problems they met in study. Some students also use this time to review(复习) the knowledge learned in the last class.\nThe longer break not only makes us feel relaxed but also improves ourselves. We are more energetic(精力充沛的) for the next class after a good rest. Besides, we can make more friends and learn from each other. The 15-minute break lets us have deeper conversations and build stronger relationships with our classmates. This change has truly made our school days more enjoyable and meaningful."
+                },
+                {
+                    "type": "choose",
+                    "title": "The class break is shorter, from 15 to 10 minutes.",
+                    "choose":["T", "F"],
+                    "id": 21
+                },
+                {
+                    "type": "choose",
+                    "title": "During the 15-minute break, the students can do different kinds of activities.",
+                    "choose":["T", "F"],
+                    "id": 22
+                },
+                {
+                    "type": "choose",
+                    "title": "All students go out of the classroom to play sports during the 15-minute break.",
+                    "choose":["T", "F"],
+                    "id": 23
+                },
+                {
+                    "type": "choose",
+                    "title": "The longer break helps students feel relaxed and make more friends.",
+                    "choose":["T", "F"],
+                    "id": 24
+                },
+                {
+                    "type": "choose",
+                    "title": "The passage mainly talks about the changes and influence(影响) of the class break.",
+                    "choose":["T", "F"],
+                    "id": 25
+                }
+            ]
+        },
+        {
+            "name": "第二部分 第二节：短文阅读（A）",
+            "questions": [
+                {
+                    "type": "html",
+                    "html": "a"
+                },
+                {
+                    "id": 26,
+                    "type": "choose",
+                    "title": "When should students arrive at the place?",
+                    "choose":["At 4:30 p.m.", "At 5:50 p.m.", "At 6 p.m.", "At 7:00 p.m."]
+                },
+                {
+                    "id": 27,
+                    "type": "choose",
+                    "title": "Where can students get tickets?",
+                    "choose":["On the school playground.", "In the front of the art classroom.", "In front of the third teaching building.", "On the WeChat public platform."]
+                },
+                {
+                    "id": 28,
+                    "type": "choose",
+                    "title": "What is the movie mainly about according to the text?",
+                    "choose":["Fighting against the fate and showing study life.", "Fighting against fate and showing childhood.", "Fight against fate and showing learning skills.", "Fighting against fate and showing family love and friendship."]
+                },
+                {
+                    "id": 29,
+                    "type": "choose",
+                    "title": "What food do volunteers need to prepare during the Movie Night?\n(1) popcorn;  (2) sandwiches;  (3) hamburgers;  (4) juice",
+                    "choose":["(1)(2)(3)", "(2)(3)(4)", "(1)(2)(4)", "(1)(3)(4)"]
+                },
+                {
+                    "id": 30,
+                    "type": "choose",
+                    "title": "Where is the text probably from?",
+                    "choose": ["A science fiction.", "A sports magazine.", "The history book.", "The school newspaper."]
+                }
+            ]
+        },
+        {
+            "name": "第二部分 第二节：短文阅读（B）",
+            "questions":[
+                {
+                    "type": "html",
+                    "html": "b"
+                },
+                {
+                    "type": "choose",
+                    "id": 31,
+                    "title": "What did the writer see while his parents were cooking dinner?",
+                    "choose":["a dog", "a cat", "a butterfly", "a lion"]
+                },
+                {
+                    "id": 32,
+                    "type": "choose",
+                    "title": "What's the matter with the writer?",
+                    "choose":["He hurt his left foot.", "He hurt his right foot.", "He had a fever.", "He cut himself."]
+                },
+                {
+                    "id": 33,
+                    "type": "choose",
+                    "title": "The “ambulance” is ______ .",
+                    "choose":["<img src='/data/exam_data/0/img/b33_a.jpg' style='height: 5em;width: auto'>", "<img style='height: 5em;width: auto' src='/data/exam_data/0/img/b33_b.jpg'>", "<img style='height: 5em;width: auto' src='/data/exam_data/0/img/b33_c.jpg'>", "<img style='height: 5em;width: auto' src='/data/exam_data/0/img/b33_d.jpg'>"]
+                },
+                {
+                    "id": 34,
+                    "type": "choose",
+                    "title": "Which of the following is TRUE about Bella?",
+                    "choose": ["It helped find the writer.", "It broke one of its foot.", "It got its name from the writer.", "It needed to stay in hospital for days."]
+                },
+                {
+                    "id": 35,
+                    "type":"choose",
+                    "title": "Where did the writer meet his parents again?",
+                    "choose":["At home.", "In the mountains.", "In the hospital", "On the street."]
+                }
+            ]
+        },
+        {
+            "name":"第二部分 第二节：短文阅读（C）",
+            "questions":[
+                {
+                    "type":"html",
+                    "html":"c"
+                },
+                {
+                    "id": 36,
+                    "type": "choose",
+                    "title": "Many experts think we should ______ AI well at schools.",
+                    "choose":["avoid", "use", "stop", "hide"]
+                },
+                {
+                    "id": 37,
+                    "type": "choose",
+                    "title": "What does Zheng Qinghua think of using AI in the schools?",
+                    "choose":["It's unimportant and useless.", "It helps students do better in study.", "It only causes problems in education.", "It should be stopped."]
+                },
+                {
+                    "id": 38,
+                    "type": "choose",
+                    "title": "What can Ernie Bot do according to the text?",
+                    "choose":["Only play computer games with students.", "Help students to take an English exam.", "Write papers, solve science problems and do homework.", "Teach students how to study science in the classroom."]
+                },
+                {
+                    "id": 39,
+                    "type": "choose",
+                    "title": "What does “it” in “We shouldn't just use it for answers or homework.” refer to(指代)?",
+                    "choose":["AI", "homework", "chatbot", "ChatGPT"]
+                },
+                {
+                    "id": 40,
+                    "type": "choose",
+                    "title": "What's the main idea of the passage?",
+                    "choose": ["How to use ChatGPT for homework.", "The reasons why we shouldn't use AI in schools.", "Discuss whether to use AI in the schools and how to use it in a right way.", "The history and development of AI."]
+                }
+            ]
+        },
+        {
+            "name": "第二部分 第三节：七选五项",
+            "questions": [
+                {
+                    "type": "html",
+                    "html": "7c5"
+                },
+                {
+                    "id": 41,
+                    "type":"choose",
+                    "title": "",
+                    "choose": ["A", "B", "C", "D", "E", "F", "G"]
+                },
+                {
+                    "id": 42,
+                    "type":"choose",
+                    "title": "",
+                    "choose": ["A", "B", "C", "D", "E", "F", "G"]
+                },
+                {
+                    "id": 43,
+                    "type":"choose",
+                    "title": "",
+                    "choose": ["A", "B", "C", "D", "E", "F", "G"]
+                },
+                {
+                    "id": 44,
+                    "type":"choose",
+                    "title": "",
+                    "choose": ["A", "B", "C", "D", "E", "F", "G"]
+                },
+                {
+                    "id": 45,
+                    "type":"choose",
+                    "title": "",
+                    "choose": ["A", "B", "C", "D", "E", "F", "G"]
+                }
+            ]
+        },
+        {
+            "name": "第三部分 第一节：用所给词适当形式填空",
+            "questions": [
+                {
+                    "id" : 46,
+                    "type": "short_input",
+                    "title": "The ______ Asian Winter Games took place in Harbin in Feburary, 2025. (nine)"
+                },
+                {
+                    "id": 47,
+                    "type" :"short_input",
+                    "title" : "With hard work, Jiaozi became a ______ director(导演). (success)"
+                },
+                {
+                    "id": 48,
+                    "type" :"short_input",
+                    "title" : "My aunt is a panda ______ who works at Chengdu Research Base. (keep)"
+                },
+                {
+                    "id": 49,
+                    "type" :"short_input",
+                    "title" :"When the Chinese table tennis player Sun Yingsha appeared at the airport, all the fans gave ______ a warm welcome. (she)"
+                },
+                {
+                    "id": 50,
+                    "type" :"short_input",
+                    "title" :"When I heard the news, I was ______ shocked. (complete)"
+                }
+            ]
+        },
+        {
+            "name": "第三部分 第二节：翻译词组填空（注意使用适当的形式）",
+            "questions":[
+                {
+                    "id": 51,
+                    "type": "short_input",
+                    "title" : "Although he's wrong, it's not a ______. (重要的事)"
+                },
+                {
+                    "id": 52,
+                    "type": "short_input",
+                    "title": "Yesterday, the girl went to the hospital to ______ the sick kids. (使振奋起来)"
+                },
+                {
+                    "id": 53,
+                    "type": "short_input",
+                    "title": "More and more young people like to drink ______. (奶茶)"
+                },
+                {
+                    "id": 54,
+                    "type":"short_input",
+                    "title": "John started exercising every day ______ lose weight. (为了)"
+                },
+                {
+                    "id": 55,
+                    "type":"short_input",
+                    "title": "______, Tom has worked in the old people's home for two years. (到目前为止)"
+                }
+            ]
+        },
+        {
+            "name": "第三部分 第三节：书面表达",
+            "questions": [
+                {
+                    "type": "html",
+                    "html": "33"
+                },
+                {
+                    "id": 56,
+                    "type": "long_input",
+                    "title": ""
                 }
             ]
         }
